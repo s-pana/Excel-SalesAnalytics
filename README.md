@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](P&L Statement by Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/s-pana/Excel-SalesAnalytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](P&L Statement by Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/s-pana/Excel-SalesAnalytics/blob/main/P%26L%20for%20Market.pdf)_
 
